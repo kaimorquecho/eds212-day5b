@@ -71,7 +71,7 @@ apples < bananas & bananas > 20 # FALSE  TRUE FALSE FALSE FALSE ----
 
 # we use the exclamation mark to ask "not" ----
 
-!"dog" == "cat" # this reads as "is dog not equal to cat?", answer is true, true bc it is NOT----
+!"dog" == "cat" # this reads as "is dog not equal to cat?", answer is true, true bc dog is NOT equal to cat ---- 
 
 
 
